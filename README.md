@@ -47,7 +47,7 @@ The second argument is a JSON array of task objects:
 
 ## Roadmap and participation
 
-See [ROADMAP.md](ROADMAP.md) for the maintenance plan and public release gates. Reports about false positives, confusing errors, and integration needs are welcome once the repository is published. The project will publish real issue and release history as it develops.
+See [ROADMAP.md](ROADMAP.md) for planned improvements. Reports about false positives, confusing errors, and integration needs are welcome. The project will publish real issue and release history as it develops.
 
 ## License
 

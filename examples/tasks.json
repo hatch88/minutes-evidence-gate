@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MTG-001",
+    "title": "Prepare the release checklist",
+    "status": "candidate",
+    "source_quote": "Maya will prepare the release checklist by Friday.",
+    "owner": "Maya",
+    "owner_quote": "Maya will prepare the release checklist by Friday.",
+    "due_date": "Friday",
+    "due_date_quote": "Maya will prepare the release checklist by Friday."
+  },
+  {
+    "id": "MTG-002",
+    "title": "Review the migration notes",
+    "status": "candidate",
+    "source_quote": "Noah will review the migration notes before the next meeting.",
+    "owner": "Noah",
+    "owner_quote": "Noah will review the migration notes before the next meeting."
+  }
+]
